@@ -1,1 +1,23 @@
-/* Write your CSS here! */
+body {
+    margin: 1in;
+    background-color: rgb(43, 43, 43);
+    font-family:'Times New Roman', Times, serif;
+    color:gold
+}
+h1 {
+    text-align: center;
+    font-size: 36pt;
+    color: gold;
+}
+#p1 {
+    background-color:rgb(83, 83, 83);
+    font-size: 16pt;
+    margin-left: 5in;
+    margin-right: 5in;
+    border-radius: .2in;
+    border-color:gold;
+    border-width: .3mm;
+    border-style: solid;
+    text-align: center;
+    color:gold;
+}
