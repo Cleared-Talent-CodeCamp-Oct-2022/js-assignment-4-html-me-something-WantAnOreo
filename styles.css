@@ -1,1 +1,57 @@
-/* Write your CSS here! */
+body {
+    margin: 1in;
+    background-color: rgb(43, 43, 43);
+    font-family:'Times New Roman', Times, serif;
+    color:gold
+    margin-left: .8in;
+    margin-right: .8in;
+}
+h1 {
+    text-align: center;
+    font-size: 38pt;
+    color: gold;
+}
+#p1 {
+    background-color:rgb(83, 83, 83);
+    font-size: 20pt;
+    border-radius: .2in;
+    border-color:gold;
+    border-radius: .2in;
+    border-width: .3mm;
+    border-style: solid;
+    text-align: center;
+    color:gold;
+}
+p {
+    background-color:rgb(83, 83, 83);
+    font-size: 16pt;
+    border-radius: .2in;
+    border-color:gold;
+    border-width: .3mm;
+    border-style: solid;
+    text-align: center;
+    color:gold;
+}
+#sackboy {
+    width: 300px;
+    height: auto;
+}
+#sackboyDiv {
+    text-align: center;
+}
+#dragonborn {
+    width: 300px;
+    height: auto;
+    /* object-fit: contain; */
+}
+#center {
+    text-align: center;
+}
+#survivor {
+    width: 300px;
+    height: auto;
+    justify-content: center;
+}
+#survivorDiv {
+    text-align: center;
+}
