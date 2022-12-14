@@ -3,6 +3,8 @@ body {
     background-color: rgb(43, 43, 43);
     font-family:'Times New Roman', Times, serif;
     color:gold
+    margin-left: .8in;
+    margin-right: .8in;
 }
 h1 {
     text-align: center;
@@ -14,6 +16,7 @@ h1 {
     font-size: 20pt;
     border-radius: .2in;
     border-color:gold;
+    border-radius: .2in;
     border-width: .3mm;
     border-style: solid;
     text-align: center;
@@ -22,8 +25,6 @@ h1 {
 p {
     background-color:rgb(83, 83, 83);
     font-size: 16pt;
-    margin-left: .8in;
-    margin-right: .8in;
     border-radius: .2in;
     border-color:gold;
     border-width: .3mm;
